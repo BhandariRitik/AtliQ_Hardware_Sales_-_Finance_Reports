@@ -24,3 +24,12 @@ Crucial for assessing economic stability and operational efficiency, guiding bus
 
 **Role of Reports:**  
 Monitor financial performance, ensure transparency, and support strategic decisions by providing insights into profit, expenses, and trends.
+
+## Technical Skills Gained
+
+- Expertise in ETL (Extract, Transform, Load) methodology.
+- Skills in generating date tables using Power Query.
+- Capability to determine fiscal months and quarters.
+- Experience in setting up data model relationships with Power Pivot.
+- Proficiency in integrating additional data into an existing data model.
+- Ability to use DAX for creating calculated columns.
